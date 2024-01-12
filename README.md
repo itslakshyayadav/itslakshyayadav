@@ -30,6 +30,7 @@ That's why I like to make things that make a difference.
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
 
 - 📬 How to reach me: [itslakshyayadav@gmail.com](mailto:itslakshyayadav@gmail.com)
+- 💼 [Lakshya Portfolio](https://lakshyadav-portfolio.netlify.app/)
 - 📝 [Resume](https://drive.google.com/file/d/1-bXRFK_31S0CNSqEZkNDKbjViGvTOMJY/view?usp=drive_link).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
