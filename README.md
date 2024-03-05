@@ -30,7 +30,7 @@ That's why I like to make things that make a difference.
 
 - 📬 How to reach me: [itslakshyayadav@gmail.com](mailto:itslakshyayadav@gmail.com)
 - 💼 [Lakshya Portfolio](https://lakshyadav-portfolio.netlify.app/)
-- 📝 [Resume](https://docs.google.com/document/d/1g7t-wLsJzHS7fHB7hppDIrhwMRzSMv7zG8CSl5Vo8Pg/edit?usp=drive_link).
+- 📝 [Resume](https://drive.google.com/file/d/1iwpyjccvi-TrVSpfQfMsjoyGEaDQH4p3/view?usp=drive_link).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
