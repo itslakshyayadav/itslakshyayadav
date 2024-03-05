@@ -23,7 +23,6 @@ That's why I like to make things that make a difference.
 
 - 👨‍🎓 I'm a **Junior Frontend Software Engineering**
 - 🔭 I’m currently working on <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> platform
-- 👨‍🏫 I'm the **Co-Founder** at [justvegan.fit](http://justvegan.fit/)
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
 
@@ -31,7 +30,7 @@ That's why I like to make things that make a difference.
 
 - 📬 How to reach me: [itslakshyayadav@gmail.com](mailto:itslakshyayadav@gmail.com)
 - 💼 [Lakshya Portfolio](https://lakshyadav-portfolio.netlify.app/)
-- 📝 [Resume](https://drive.google.com/file/d/1-bXRFK_31S0CNSqEZkNDKbjViGvTOMJY/view?usp=drive_link).
+- 📝 [Resume](https://docs.google.com/document/d/1g7t-wLsJzHS7fHB7hppDIrhwMRzSMv7zG8CSl5Vo8Pg/edit?usp=drive_link).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
