@@ -11,7 +11,7 @@
 
 ## Glad to see you here! &nbsp;
 
-I am a frontend software engineer. I love programming, reading, writing and speaking.
+I am a Senior frontend software engineer. I love programming, reading, writing and speaking.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
 
@@ -30,7 +30,7 @@ That's why I like to make things that make a difference.
 
 - 📬 How to reach me: [itslakshyayadav@gmail.com](mailto:itslakshyayadav@gmail.com)
 - 💼 [Lakshya Portfolio](https://lakshyadav-portfolio.netlify.app/)
-- 📝 [Resume](https://drive.google.com/file/d/1-fAJsG751wac2dlLhCEE5XUQSInCA_Fo/view?usp=drive_link).
+- 📝 [Resume](https://drive.google.com/file/d/1QyXNHpdxt8IYjVeOsVHnPtZF3gHRUq-9/view?usp=drive_link).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
