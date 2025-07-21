@@ -21,7 +21,7 @@ That's why I like to make things that make a difference.
 
 ### Talking about Personal Stuffs:
 
-- 👨‍🎓 I'm a **Senior Software Developer**
+- 👨‍🎓 I'm a **Software Engineer**
 - 🔭 I’m currently working on <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> platform
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
