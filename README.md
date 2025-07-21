@@ -11,7 +11,7 @@
 
 ## Glad to see you here! &nbsp;
 
-I am a Senior frontend software engineer. I love programming, reading, writing and speaking.
+I am a Software Engineer. I love programming, reading, writing and speaking.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
 
